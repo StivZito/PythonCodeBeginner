@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"contni",
+				"continue〔keyword〕"
+			],
+			[
 				"prin",
 				"print〔function〕"
 			],
@@ -82,10 +86,13 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/progrmador/Documents/GitHub/PythonCodeBeginner"
+		"/D/Documents/GitHub/PythonCodeBeginner"
 	],
 	"file_history":
 	[
+		"/D/Documents/GitHub/PythonCodeBeginner/loop_while.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/for_loop.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/condition_string.py",
 		"/C/Users/progrmador/Documents/GitHub/PythonCodeBeginner/dicto_string.py",
 		"/C/Users/progrmador/Documents/GitHub/PythonCodeBeginner/set_string.py",
 		"/C/Users/progrmador/Documents/GitHub/PythonCodeBeginner/tuples_string.py",
@@ -179,7 +186,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 22.0
 	},
 	"find_in_files":
 	{
@@ -219,7 +226,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 22.0
 	},
 	"input":
 	{
@@ -272,7 +279,7 @@
 	"project": "PythonBeginnerSublime.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 40.0
 	},
 	"save_all_on_build": true,
 	"select_file":
