@@ -80,16 +80,16 @@
 		"selected_items":
 		[
 			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
 				"Package Control: ins",
 				"Package Control: Install Package"
 			],
 			[
 				"inst",
 				"Package Control: Install Package"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Remove Package"
 			],
 			[
 				"Package Control: inst",
@@ -134,6 +134,14 @@
 	],
 	"file_history":
 	[
+		"/D/Documents/GitHub/PythonCodeBeginner/mymodule.py",
+		"/C/Program Files/Sublime Text 3/mymodule.ppy",
+		"/D/Documents/GitHub/PythonCodeBeginner/iterador_complex_ii.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/iterador_complex_two",
+		"/D/Documents/GitHub/PythonCodeBeginner/iterador_compplex.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/iterador.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/herencia.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/herencia.class.py",
 		"/D/Documents/GitHub/PythonCodeBeginner/class_self.py",
 		"/D/Documents/GitHub/PythonCodeBeginner/class_person.py",
 		"/D/Documents/GitHub/PythonCodeBeginner/class_python.py",
