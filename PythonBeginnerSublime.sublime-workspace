@@ -15,6 +15,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/progrmador/Dropbox/activ01062018.txt",
+			"settings":
+			{
+				"buffer_size": 142026,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
@@ -215,8 +224,40 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/progrmador/Dropbox/activ01062018.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 142026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142026,
+								142026
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 38115.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
