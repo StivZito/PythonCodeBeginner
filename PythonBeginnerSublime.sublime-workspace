@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"my_f",
+				"my_function_return〔function〕"
+			],
+			[
+				"my",
+				"my_function_loo〔function〕"
+			],
+			[
+				"my_fun",
+				"my_function_name"
+			],
+			[
+				"contni",
+				"continue〔keyword〕"
+			],
+			[
 				"prin",
 				"print〔function〕"
 			],
@@ -15,17 +31,8 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Users/progrmador/Dropbox/activ01062018.txt",
-			"settings":
-			{
-				"buffer_size": 142026,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
-	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system": "Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
 	"build_system_choices":
 	[
 		[
@@ -43,6 +50,26 @@
 				"Packages/Python/Python.sublime-build",
 				""
 			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+				""
+			]
 		]
 	],
 	"build_varint": "",
@@ -53,12 +80,24 @@
 		"selected_items":
 		[
 			[
-				"",
-				"Convert Case: Swap Case"
+				"Package Control: ",
+				"Package Control: Remove Package"
 			],
 			[
-				"Package Control: ",
+				"Package Control: ins",
 				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Convert Case: Swap Case"
 			],
 			[
 				"Package Control: install",
@@ -91,19 +130,36 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/progrmador/Documents/GitHub/PythonCodeBeginner"
+		"/D/Documents/GitHub/PythonCodeBeginner"
 	],
 	"file_history":
 	[
-		"/C/Users/progrmador/Dropbox/activ01062018.txt",
-		"/C/ComprobanteElectronicos/FACTURA/FacturaEnviada/rechazados/2904201901099256360500120010040000014901234567816.xml",
-		"/C/ComprobanteElectronicos/FACTURA/FacturaEnviada/rechazados/3004201901099256360500120010040000015791234567812.xml",
-		"/C/ComprobanteElectronicos/FACTURA/FacturaEnviada/rechazados/2504201901099256360500120010040000014091234567816.xml",
+		"/D/Documents/GitHub/MSIG/Procesos de Negocio/Clase_I_07052019.txt",
+		"/D/Documents/GitHub/MSIG/Procesos de Negocio/Clase_II_08052019.txt",
+		"/D/Documents/GitHub/PythonCodeBeginner/mymodule.py",
+		"/C/Program Files/Sublime Text 3/mymodule.ppy",
+		"/D/Documents/GitHub/PythonCodeBeginner/iterador_complex_ii.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/iterador_complex_two",
+		"/D/Documents/GitHub/PythonCodeBeginner/iterador_compplex.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/iterador.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/herencia.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/herencia.class.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/class_self.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/class_person.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/class_python.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/PythonBeginnerSublime.sublime-project",
+		"/D/Documents/GitHub/PythonCodeBeginner/matrices_python.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/lambd_python.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/function_python.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/loop_while.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/for_loop.py",
+		"/D/Documents/GitHub/PythonCodeBeginner/condition_string.py",
 		"/C/Users/progrmador/Documents/GitHub/PythonCodeBeginner/dicto_string.py",
 		"/C/Users/progrmador/Documents/GitHub/PythonCodeBeginner/set_string.py",
 		"/C/Users/progrmador/Documents/GitHub/PythonCodeBeginner/tuples_string.py",
 		"/C/Users/progrmador/Documents/GitHub/PythonCodeBeginner/demo_string_input.py",
 		"/C/Users/progrmador/Documents/GitHub/PythonCodeBeginner/HolaMundo.py",
+		"/C/Users/progrmador/Dropbox/activ01062018.txt",
 		"/C/Users/progrmador/Dropbox/datos_credep.sql",
 		"/C/Users/progrmador/Documents/SQL Server Management Studio/mayorizadores_rapidos/MAYORIZACION_NEW.sql",
 		"/C/ComprobanteElectronicos/FACTURA/FacturaEnviada/rechazados/0801201907099282677000120010020000000171234567811.xml",
@@ -191,7 +247,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 22.0
 	},
 	"find_in_files":
 	{
@@ -224,46 +280,14 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/progrmador/Dropbox/activ01062018.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 142026,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								142026,
-								142026
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"incomplete_sync": null,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 38115.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 22.0
 	},
 	"input":
 	{
@@ -294,7 +318,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 91.0
+		"height": 109.0
 	},
 	"output.find_results":
 	{
@@ -316,7 +340,7 @@
 	"project": "PythonBeginnerSublime.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 40.0
 	},
 	"save_all_on_build": true,
 	"select_file":
