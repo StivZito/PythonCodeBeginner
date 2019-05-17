@@ -19,7 +19,7 @@
 			"file": "/C/Users/progrmador/Dropbox/activ01062018.txt",
 			"settings":
 			{
-				"buffer_size": 142789,
+				"buffer_size": 142870,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -234,15 +234,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 142789,
+						"buffer_size": 142870,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								141223,
-								141223
+								142843,
+								142843
 							]
 						],
 						"settings":
@@ -399,7 +399,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 39180.0,
+						"translation.y": 39765.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
